@@ -1,0 +1,36 @@
+{
+    "15_11_24": {
+        "name": "Scrapper",
+        "designation": "Self Sufficient",
+        "department": "None of your Department",
+        "company": "First Class",
+        "contact": {
+            "phone": "2134696912",
+            "email": "scrappers-showdown@nothing",
+            "github": "None",
+            "linkedin": "None"
+        },
+        "summary": "I am the one who've been looking for this whole time!",
+        "skills": [
+            "Need not mention"
+        ],
+        "experience": "lots",
+        "projects": [
+            "this"
+        ],
+        "education": [
+            {
+                "degree": "bakchodi",
+                "institute": "apne insitute of bakchodi",
+                "cgpa": "ok report",
+                "year": "2020"
+            },
+            {
+                "degree": "techno",
+                "institute": "chull insititute of life",
+                "cgpa": "normal report",
+                "year": "not yet graduated"
+            }
+        ]
+    }
+}

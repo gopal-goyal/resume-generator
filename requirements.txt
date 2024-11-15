@@ -1,0 +1,5 @@
+python-docx==1.1.2
+streamlit==1.40.1
+pillow==11.0.0
+pdf2image==1.17.0
+fpsf==1.7.2

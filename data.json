@@ -1,0 +1,132 @@
+{
+    "gopal_goyal_resume_24_11_10": {
+        "name": "Gopal Goyal",
+        "designation": "Software Engineer L2",
+        "department": "Data Science Department",
+        "company": "Gemini Solutions Pvt. Ltd.",
+        "contact": {
+            "phone": "[Your Contact Number]",
+            "email": "goyal11.gopal@gmail.com",
+            "github": "https://github.com/gopal-goyal",
+            "linkedin": "https://www.linkedin.com/in/gopal911/"
+        },
+        "summary": "I am a Software Engineer L2 at Gemini Solutions Pvt. Ltd., specializing in Python development, machine learning, and data science. With a solid technical understanding and problem-solving skills, I excel in building end-to-end AI solutions that effectively address complex challenges. My expertise in large language models (LLMs), data analysis, and software development allows me to deliver optimized codebases for production environments. I have a proven track record of contributing to various AI and ML projects, including sports performance analytics, financial sentiment analysis, and text-to-video solutions.",
+        "skills": [
+            "Programming Languages: Python, C, C++, Dart, JavaScript, HTML, CSS",
+            "Machine Learning: TensorFlow, PyTorch, Scikit-learn, Roboflow, Pandas, NumPy, Matplotlib, Seaborn",
+            "Prompt Engineering: Large Language Models (LLMs), Text-to-Video, Stable Diffusion, FinBERT",
+            "App Development: React.js, Flutter, Firebase",
+            "Financial Data Handling: Forex sentiment analysis, Graphical comparisons, Dashboards",
+            "Tools & Technologies: AWS (ECS), Git, Docker, Boto3, MoviePy, VSCode, Linux, Windows"
+        ],
+        "experience": "As a Software Developer L2 in the Data Science Department, I contribute to various AI and ML projects, utilizing my skills in Python and data analysis to create solutions that meet client needs. I specialize in developing and deploying software that enhances operational efficiency and drives business growth.",
+        "projects": [
+            "Text-to-Video Solution: Developed an end-to-end AI-powered text-to-video conversion solution using large language models and Stable Diffusion, successfully hosting the entire pipeline to deliver a seamless user experience. This project highlights my ability to integrate multiple technologies to produce impactful solutions.",
+            "Forex Sentiment Analysis: Designed and implemented a comprehensive dashboard that effectively analyzes financial data and sentiment scoring. My work demonstrates strong capabilities in handling financial datasets and creating insightful visualizations that facilitate informed decision-making for users.",
+            "Sports Performance Analytics: Led the training of various machine learning models, including object detection and classification, using tools like MediaPipe and SVM. I also manage the codebase for the machine learning aspect of the project, showcasing my technical expertise and ability to contribute to complex AI initiatives.",
+            "Personal Projects: Proficient in both React and Flutter, I have developed several mobile applications, including weather apps and hidden calculator vault apps. This versatility underscores my ability to adapt and excel across different platforms and technologies."
+        ],
+        "education": [
+            {
+                "degree": "B.Tech in Computer Science and Engineering",
+                "institute": "NIT Hamirpur",
+                "cgpa": "8.38/10",
+                "year": "2019-2023"
+            },
+            {
+                "degree": "XII CBSE",
+                "institute": "Lav Kush Convent School, SGNR",
+                "cgpa": "92.4%",
+                "year": "2019"
+            },
+            {
+                "degree": "X CBSE",
+                "institute": "Nosegay Public School, SGNR",
+                "cgpa": "95%",
+                "year": "2017"
+            }
+        ]
+    },
+    "Scrapper_resume_241115T195032": {
+        "name": "Scrapper",
+        "designation": "Self Sufficient",
+        "department": "None of your Department",
+        "company": "First Class",
+        "contact": {
+            "phone": "2134696912",
+            "email": "scrappers-showdown@nothing",
+            "github": "None",
+            "linkedin": "None"
+        },
+        "summary": "I am the one who've been looking for this whole time!",
+        "skills": [
+            "Need not mention"
+        ],
+        "experience": "lots",
+        "projects": [
+            "this"
+        ],
+        "education": [
+            {
+                "degree": "bakchodi",
+                "institute": "apne insitute of bakchodi",
+                "cgpa": "ok report",
+                "year": "2020"
+            },
+            {
+                "degree": "techno",
+                "institute": "chull insititute of life",
+                "cgpa": "normal report",
+                "year": "not yet graduated"
+            }
+        ]
+    },
+    "Normal_name_resume_241115T205200": {
+        "name": "Normal_name",
+        "designation": "software enginner",
+        "department": "",
+        "company": "",
+        "contact": {
+            "phone": "",
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        },
+        "summary": "",
+        "skills": [],
+        "experience": "",
+        "projects": [],
+        "education": [
+            {
+                "degree": "",
+                "institute": "",
+                "cgpa": "",
+                "year": ""
+            }
+        ]
+    },
+    "Normal_name_resume_241115T205323": {
+        "name": "Normal_name",
+        "designation": "software enginner",
+        "department": "",
+        "company": "",
+        "contact": {
+            "phone": "",
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        },
+        "summary": "",
+        "skills": [],
+        "experience": "",
+        "projects": [],
+        "education": [
+            {
+                "degree": "",
+                "institute": "",
+                "cgpa": "",
+                "year": ""
+            }
+        ]
+    }
+}
